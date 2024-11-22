@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BilalBoboko/Portfolio01.git/static/css/main.1ddea8d1.css",
+    "main.js": "/BilalBoboko/Portfolio01.git/static/js/main.2201b2ab.js",
+    "static/js/453.1407b060.chunk.js": "/BilalBoboko/Portfolio01.git/static/js/453.1407b060.chunk.js",
+    "static/media/back.mp4": "/BilalBoboko/Portfolio01.git/static/media/back.bc153cc26b1f4c6482f4.mp4",
+    "static/media/roulette.jpg": "/BilalBoboko/Portfolio01.git/static/media/roulette.88f72b2c41a333d8471e.jpg",
+    "static/media/crestiki i noliki.png": "/BilalBoboko/Portfolio01.git/static/media/crestiki i noliki.983cbb34de90dd777d80.png",
+    "static/media/sun.svg": "/BilalBoboko/Portfolio01.git/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/BilalBoboko/Portfolio01.git/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/BilalBoboko/Portfolio01.git/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/instagram.svg": "/BilalBoboko/Portfolio01.git/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "static/media/vk.svg": "/BilalBoboko/Portfolio01.git/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
+    "static/media/twitter.svg": "/BilalBoboko/Portfolio01.git/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
+    "static/media/linkedIn.svg": "/BilalBoboko/Portfolio01.git/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "index.html": "/BilalBoboko/Portfolio01.git/index.html",
+    "main.1ddea8d1.css.map": "/BilalBoboko/Portfolio01.git/static/css/main.1ddea8d1.css.map",
+    "main.2201b2ab.js.map": "/BilalBoboko/Portfolio01.git/static/js/main.2201b2ab.js.map",
+    "453.1407b060.chunk.js.map": "/BilalBoboko/Portfolio01.git/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ddea8d1.css",
+    "static/js/main.2201b2ab.js"
+  ]
+}
